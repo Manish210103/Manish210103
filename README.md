@@ -30,9 +30,4 @@ I am Manish, better known as **Tightpace**, a _computer aficionado_ in a perpetu
 
 [More](https://github.com/Manish210103?tab=repositories)
 
-#
-<div align="center">
 
-<button style="padding: 12px 24px; background-color: #f44336; color: #fff; font-size: 18px; font-weight: bold; border: none; border-radius: 4px;"><a href="./thankyou.html" style="text-decoration: none; color: inherit;">Click here for surprise</a></button>
-
-</div>
