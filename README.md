@@ -11,6 +11,7 @@ I am Manish, better known as **Tightpace**, a _computer aficionado_ in a perpetu
 
 
 ## About Me
+- 📖  I am currently pursuing an MSc in Theoretical Computer Science at PSG College of Technology. ( 2021-2026 )
 - 🌟 Passionate about technology and innovation, constantly seeking new knowledge and challenges.
 - 💬 Ask me anything related to **Web technologies, Web Designing or programming languages**.
 - 👨 Pronouns: **He/Him**
