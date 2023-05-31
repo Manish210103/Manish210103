@@ -28,6 +28,6 @@ I am Manish, better known as **Tightpace**, a _computer aficionado_ in a perpetu
 [![Repository 2](https://img.shields.io/badge/Repository%202-Description%202-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDE4IDE4Ij4KPHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTE4IDBIOC0xOEw4IDE0IDkgMTQgOEg4eiIvPjwvc3ZnPgo=)](https://github.com/Manish210103/Phoenix)
 [![Repository 3](https://img.shields.io/badge/Repository%203-Description%203-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDE4IDE4Ij4KPHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTE4IDBIOC0xOEw4IDE0IDkgMTQgOEg4eiIvPjwvc3ZnPgo=)](https://github.com/Manish210103/Simple-Calculator)
 
-[<img src="https://img.shields.io/badge/More-See%20All%20Repositories-green">](https://github.com/Manish210103?tab=repositories)
+[More](https://github.com/your-username?tab=repositories)
 
 
