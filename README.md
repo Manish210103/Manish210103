@@ -21,3 +21,13 @@ I am Manish, better known as **Tightpace**, a _computer aficionado_ in a perpetu
 **[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishm210103@gmail.com)**
 **[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manish._.21/)**
 **[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/manishm210103)**
+
+## My Repositories
+
+[![Repository 1](https://img.shields.io/badge/Repository%201-Description%201-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDE4IDE4Ij4KPHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTE4IDBIOC0xOEw4IDE0IDkgMTQgOEg4eiIvPjwvc3ZnPgo=)](https://github.com/Manish210103/BookMyConsultation)
+[![Repository 2](https://img.shields.io/badge/Repository%202-Description%202-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDE4IDE4Ij4KPHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTE4IDBIOC0xOEw4IDE0IDkgMTQgOEg4eiIvPjwvc3ZnPgo=)](https://github.com/Manish210103/Phoenix)
+[![Repository 3](https://img.shields.io/badge/Repository%203-Description%203-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDE4IDE4Ij4KPHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTE4IDBIOC0xOEw4IDE0IDkgMTQgOEg4eiIvPjwvc3ZnPgo=)](https://github.com/Manish210103/Simple-Calculator)
+
+[<img src="https://img.shields.io/badge/More-See%20All%20Repositories-green">](https://github.com/Manish210103?tab=repositories)
+
+
