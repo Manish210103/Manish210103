@@ -30,4 +30,10 @@ I am Manish, better known as **Tightpace**, a _computer aficionado_ in a perpetu
 
 [More](https://github.com/Manish210103?tab=repositories)
 
+## My Streaks
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish210103&" alt="Manish210103" /></p>
 
+## Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish210103&show_icons=true&locale=en" alt="Manish210103" /></p>
+
+#
