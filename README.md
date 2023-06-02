@@ -36,4 +36,3 @@ I am Manish, better known as **Tightpace**, a _computer aficionado_ in a perpetu
 ## Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish210103&show_icons=true&locale=en" alt="Manish210103" /></p>
 
-#
