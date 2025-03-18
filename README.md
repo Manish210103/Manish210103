@@ -6,7 +6,7 @@
 </p>
 
 
-# Hello There! 👋
+# HOLA There! 👋
 I am Manish, better known as **Tightpace**, a _computer aficionado_ in a perpetual state of evolution.
 
 
